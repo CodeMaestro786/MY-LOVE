@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     # Calculate time together
-    start_date = datetime(2023, 9, 28)  # Our relationship start date
+    start_date = datetime(2024, 9, 28)  # Our relationship start date
     current_date = datetime.now()
     days_together = (current_date - start_date).days
     hours_together = days_together * 24
