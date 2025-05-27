@@ -14,7 +14,7 @@ const loveMessages = [
     'Eight months of pure joy with you ',
     'You are my favorite person ',
     'Forever grateful for your love ',
-    'Since September 28, 2023, my life has been complete ',
+    'Since September 28, 2024, my life has been complete ',
     'Every day with you is a blessing ',
     'You are my everything ',
     'Together forever and always ',
