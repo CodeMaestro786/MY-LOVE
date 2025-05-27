@@ -9,16 +9,16 @@ document.body.appendChild(counterDisplay);
 
 // Dynamic love messages
 const loveMessages = [
-    'Every moment with you is magical ✨',
-    'You make my heart skip a beat 💓',
-    'Eight months of pure joy with you 🎉',
-    'You are my favorite person 💝',
-    'Forever grateful for your love 💖',
-    'Since September 28, 2023, my life has been complete 💑',
-    'Every day with you is a blessing 🌟',
-    'You are my everything 💕',
-    'Together forever and always 💘',
-    'My heart belongs to you 💖'
+    'Every moment with you is magical ',
+    'You make my heart skip a beat ',
+    'Eight months of pure joy with you ',
+    'You are my favorite person ',
+    'Forever grateful for your love ',
+    'Since September 28, 2023, my life has been complete ',
+    'Every day with you is a blessing ',
+    'You are my everything ',
+    'Together forever and always ',
+    'My heart belongs to you '
 ];
 
 // Photo gallery effects
