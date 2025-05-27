@@ -39,7 +39,7 @@
 }
 
 .floating-heart {
-    animation: float-heart 3s ease-in-out infinite;
+    animation: float-heart 300s ease-in-out infinite;
 }
 
 .pulse-ring {
