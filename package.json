@@ -1,5 +1,5 @@
 {
-  "name": "love-anniversary",
+  "name": "anniversary",
   "version": "1.0.0",
   "description": "A beautiful 8-month anniversary website",
   "main": "server.js",
@@ -10,7 +10,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "ws": "^8.2.3",
-    "flask": "^2.0.1",
     "nodemon": "^2.0.15"
   },
   "author": "Love Creator",

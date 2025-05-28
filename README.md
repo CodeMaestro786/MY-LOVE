@@ -10,7 +10,7 @@ A beautiful, interactive website created with love to celebrate our special mile
 - Rotating love messages
 - Beautiful CSS animations
 - WebSocket-powered interactions
-- Time together statistics since September 28, 2023
+- Time together statistics since September 28, 2024
 
 ## 🚀 Technologies Used
 
@@ -64,7 +64,7 @@ The photo gallery features 12 of our beautiful moments together. The photos are 
 
 ## 💌 Personal Touch
 
-This website was created with love to celebrate our eight months together. Each feature represents a special aspect of our relationship, from the floating hearts to the memory gallery. The countdown timer starts from September 28, 2023, marking the beautiful beginning of our journey together.
+This website was created with love to celebrate our eight months together. Each feature represents a special aspect of our relationship, from the floating hearts to the memory gallery. The countdown timer starts from September 28, 2024, marking the beautiful beginning of our journey together.
 
 ---
 
